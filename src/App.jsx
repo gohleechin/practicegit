@@ -11,6 +11,7 @@ function App() {
           <h2>by Goh Lee Chin</h2>
         </div>
         <div className="Body">
+          <h2>Version 1.0</h2>
         </div>
       </div>
   )
