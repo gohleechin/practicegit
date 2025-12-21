@@ -19,4 +19,10 @@ body {
   background-color: lightgrey;
 }
 
+.Body {
+  width:100%;
+  text-align: center;
+  color:White;
+}
+
 
