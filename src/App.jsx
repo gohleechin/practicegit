@@ -11,7 +11,7 @@ function App() {
           <h2>by Goh Lee Chin</h2>
         </div>
         <div className="Body">
-          <h2>Version 1.1<span id="feature-a">Feature A</span></h2>
+          <h2>Version 1.1<span id="feature-a">Feature A1</span></h2>
           
         </div>
       </div>
