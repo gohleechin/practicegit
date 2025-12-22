@@ -12,7 +12,7 @@ function App() {
         </div>
         <div className="Body">
           <h2>Version 1.1<span id="feature-a">-Feature C1</span></h2>
-          <h2>Version 1.1<span className='Feature-B'>-Feature B</span></h2>
+          <h2>Version 1.1<span className='Feature-B'>-Feature B1</span></h2>
         </div>
       </div>
   )
