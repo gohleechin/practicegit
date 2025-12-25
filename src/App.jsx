@@ -14,6 +14,7 @@ function App() {
           <h2>Version 1.1<span id="feature-a">-Feature A1</span></h2>
           <h2>Version 1.1<span className='Feature-B'>-Feature B1</span></h2>
           <h2>Version 1.0<span className='Feature-C'>-Feature C</span></h2>
+          <h2>Version 1.1</h2>
         </div>
       </div>
   )
